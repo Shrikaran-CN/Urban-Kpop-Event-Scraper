@@ -18,10 +18,12 @@ This project is a Python-based web scraper for extracting event details from the
 ## Screenshots
 ### Web Page Screenshot
 Below is an example of the webpage being scraped:
-![image](https://github.com/user-attachments/assets/fa5ec4fe-e7c8-4783-9d1a-090ca154ceeb)
+![Screenshot 2025-01-07 101547](https://github.com/user-attachments/assets/67e1edd2-3125-4779-9c19-0ca52cd4a561)
+
 ### DataFrame Output
 Here is a snapshot of the cleaned and structured data in the DataFrame:
-![Output Snapshot](https://github.com/user-attachments/assets/607ce9ba-01a7-4925-a00d-f53160496cd4)
+![Output Snapshot](https://github.com/user-attachments/assets/a47f1022-112a-4e41-a7e6-fd49fddb04c7)
+
    
 ## Technologies Used
 * **Python**: The programming language used for scraping and processing data.
