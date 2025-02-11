@@ -10,10 +10,10 @@ This project is a Python-based web scraper for extracting event details from the
   * Event status
   * Venue addresses
   * Additional details and instructions
-  * Automatically scrolls through and loads all events on the webpage.
-  * Cleans and structures the data into a well-organized DataFrame.
-  * Extracts and reformats date, time, and price fields for better usability.
-  * Exports the data to a CSV file.
+* Automatically scrolls through and loads all events on the webpage.
+* Cleans and structures the data into a well-organized DataFrame.
+* Extracts and reformats date, time, and price fields for better usability.
+* Exports the data to a CSV file.
 
 ## Screenshots
 ### Web Page Screenshot
